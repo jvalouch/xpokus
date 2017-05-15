@@ -2,4 +2,4 @@
 /build
 *.pyo
 /status
-
+*.pdf
